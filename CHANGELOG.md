@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.2](https://github.com/bestminr/raw-loader/compare/v4.0.1...v4.0.2) (2020-05-06)
+
+
+### Features
+
+* change package name to `@bestminr/raw-loader` ([09d7807](https://github.com/bestminr/raw-loader/commit/09d7807))
+
 ### [4.0.1](https://github.com/webpack-contrib/raw-loader/compare/v4.0.0...v4.0.1) (2020-04-15)
 
 
