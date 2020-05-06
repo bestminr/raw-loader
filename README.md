@@ -1,11 +1,4 @@
-<div align="center">
-  <img width="200" height="200"
-    src="https://cdn3.iconfinder.com/data/icons/lexter-flat-colorfull-file-formats/56/raw-256.png">
-  <a href="https://github.com/webpack/webpack">
-    <img width="200" height="200"
-      src="https://webpack.js.org/assets/icon-square-big.svg">
-  </a>
-</div>
+## NOTE: This is a fork of the official webpack-contrib/raw-loader, with node engine requirement downgrade to "node >= 8.0.0"
 
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
